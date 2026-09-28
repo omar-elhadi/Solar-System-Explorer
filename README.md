@@ -3,8 +3,8 @@
 A minimalist, canvas-based visualization of our solar system. Explore the Sun and all eight planets with smooth orbital animations, zoom-to-focus interactions, and detailed informational panels.
 
 ## Demo
-![]('./public/demo.png')
-![]('./public/demo_details.png')
+![](./public/demo.png)
+![](./public/demo_details.png)
 
 ## Features
 
